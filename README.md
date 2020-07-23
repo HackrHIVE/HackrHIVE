@@ -1,7 +1,6 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/58eb397c4e6bf6449c8096a30adf4e5b/tumblr_obtqvv5IWo1vur2auo1_540.gifv" width="240"/>
 
 ## Hi there, I'm [Chirag Rawal](https://chirag.design)! 👋
-Reach me at : 
 <a href="https://twitter.com/chiragrawa1">
   <img align="left" alt="Chirag's Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,7 +23,6 @@ Reach me at :
 - 🔭 I’m currently working on Mobile Apps(with Flutter)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> , Firebase<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>   , Node.JS<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> , Music 🎧 , Computers and Android<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
-- 📫 How to reach me: [Twitter](https://twitter.com/chiragrawa1) , [Telegram](https://t.me/STUNNx) , [LinkedIn](https://linkedin.com/in/chiragrawal007)
 - 📄 Resume : [Resume: Chirag Rawal](https://chirag.design/resume.pdf)
 - ⚡ Fun fact: I spend 30-40% of my day listening to music while doing other stuff.
 
