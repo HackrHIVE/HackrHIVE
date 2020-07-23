@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/58eb397c4e6bf6449c8096a30adf4e5b/tumblr_obtqvv5IWo1vur2auo1_540.gifv" width="240"/>
 
 ## Hi there, I'm [Chirag Rawal](https://chirag.design)! 👋
+Reach me at : 
 <a href="https://twitter.com/chiragrawa1">
   <img align="left" alt="Chirag's Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
