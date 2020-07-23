@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on Mobile Apps(with Flutter)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> , Firebase<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>   , Node.JS<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> , Music 🎧 , Computers and Android<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
-- 📫 How to reach me: [Twitter](https://twitter.com/chiragrawa1) [Telegram](https://t.me/STUNNx) [LinkedIn](https://linkedin.com/in/chiragrawal007)
+- 📫 How to reach me: [Twitter](https://twitter.com/chiragrawa1) , [Telegram](https://t.me/STUNNx) , [LinkedIn](https://linkedin.com/in/chiragrawal007)
 - 📄 Resume : [Resume: Chirag Rawal](https://chirag.design/resume.pdf)
 - ⚡ Fun fact: I spend 30-40% of my day listening to music while doing other stuff.
 
