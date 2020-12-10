@@ -37,10 +37,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/HackrHIVE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackrHIVE&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackrHIVE&theme=tokyonight" />
 </a>
 <a href="https://github.com/HackrHIVE">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HackrHIVE&show_icons=true&line_height=27&theme=dark" alt="Chirag's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HackrHIVE&show_icons=true&line_height=27&theme=tokyonight" alt="Chirag's github stats"/>
 </a>
 
 <div align="center">
