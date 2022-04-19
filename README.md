@@ -7,14 +7,11 @@
 <a href="https://linkedin.com/in/chiragrawal007">
   <img align="left" alt="Chirag's Linkdein" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/HackrHIVe">
+<a href="https://github.com/HackrHIVE">
   <img align="left" alt="Chirag's Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/STUNNx">
   <img align="left" alt="Chirag's Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/chiragrawal007/">
-  <img align="left" alt="Chirag's Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
