@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/58eb397c4e6bf6449c8096a30adf4e5b/tumblr_obtqvv5IWo1vur2auo1_540.gifv" width="240"/>
 
-## Hi there, I'm [Chirag Rawal](https://chirag.design)! 👋
+## Hi there, I'm Chirag Rawal 👋
 <a href="https://twitter.com/chiragrawa1">
   <img align="left" alt="Chirag's Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,7 +20,6 @@
 - 🔭 I’m currently working on Mobile Apps(with Flutter)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> , Firebase<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>   , Node.JS<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> , Computers and Android<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
-- 📄 Resume : [Resume: Chirag Rawal](https://chirag.design/resume.pdf)
 - ⚡ Fun fact: I spend 30-40% of my day listening to music while doing other stuff.
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-chiragrawal007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiragrawal007/)](https://www.linkedin.com/in/chiragrawal007)
