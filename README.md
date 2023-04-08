@@ -23,7 +23,6 @@
 - ⚡ Fun fact: I spend 30-40% of my day listening to music while doing other stuff.
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-chiragrawal007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiragrawal007/)](https://www.linkedin.com/in/chiragrawal007)
-[![website](https://img.shields.io/badge/PortfolioWebsite-chirag.design-2648ff?style=flat-square&logo=google-chrome)](https://chirag.design)
 
 **Languages and Tools:**  
 
